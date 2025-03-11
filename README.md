@@ -1,1 +1,1 @@
-A modern workspace featuring a programmer sitting at a desk with a laptop. The desk also has a tablet, a smartphone, and an external monitor, each displaying different views of a responsive website. The scene visually conveys the concept of front-end programming for multiple platforms—mobile, tablet, and web. The text should be neatly integrated to highlight this message clearly. Additionally, the latest front-end technologies should be subtly incorporated in a clean and non-intrusive manner. 
+
